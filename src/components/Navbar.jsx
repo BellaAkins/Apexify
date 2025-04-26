@@ -21,7 +21,7 @@ const Navbar = () => {
           <div className="w-3 h-3 bg-pink-600 rounded-full opacity-75 hover:opacity-100 transition-opacity"></div>
           <div className="w-3 h-3 bg-blue-600  -ml-2 rounded-full opacity-100 hover:opacity-75 transition-opacity"></div>
           <a className="text-[1.2rem] font-bold text-blue-600" href="#home">
-            WeCode
+            Apexify
           </a>
         </div>
 
