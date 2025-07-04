@@ -9,7 +9,7 @@ const CompanyLogo = () => {
   const logos = [slack, amazon, woocommerce, meundies, sitepoint];
 
   return (
-    <div className="w-full overflow-hidden container mx-auto py-20  gap-8 flex sm:flex-row flex-col sm:items-center items-start">
+    <div className="w-full overflow-hidden container mx-auto py-20 gap-8 flex sm:flex-row flex-col sm:items-center items-start">
       <div
         className="w-[300px] shrink-0 px-6 text-gray-600 border-l-4 
         border-blue-500 bg-white py-2 z-10 sm:text-base text-xl font-semibold left"
